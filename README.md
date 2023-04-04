@@ -1,4 +1,4 @@
-# Cartão de Identificação utilizando o GitHub - NLW DoWhile 2021 📟
+# Cartão de Identificação - NLW DoWhile 2021 📟
 
 </br>
 
@@ -27,7 +27,7 @@
 
 ## Desenvolvedora 💻
  <a href="https://www.linkedin.com/in/raphaela-guiland-ferraz-32a980214">
-  <img align="center" src="https://avatars.githubusercontent.com/u/86068799?v=4" style="border-radius: 100%" width="100px" />
+  <img align="center" src="https://avatars.githubusercontent.com/u/86068799?v=4" style="border-radius: 100px"width="100px" />
   <sub><b>  Raphaela Guiland Ferraz</b></sub>
  </a>
 
